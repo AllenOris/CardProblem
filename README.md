@@ -12,9 +12,9 @@
 目录
 |	Readme.pdf #说明文档
 |	“支付宝集五福”抽卡概率问题分析.pdf #论文PDF版
-|---Code  #代码文件
-|	|---Expectation #问题一
-|	|---M_Extraction #问题二
+|--Code  #代码文件
+|	|--Expectation #问题一
+|	|--M_Extraction #问题二
 ```
 
 ## 代码说明
